@@ -1,0 +1,56 @@
+# =============== #
+# Unity プロジェクト #
+# =============== #
+
+# Unityが自動生成するフォルダ（キャッシュ系）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ユーザーごとの設定ファイル（個人環境のため不要）
+UserSettings/
+*.userprefs
+
+# Unity クラッシュレポート
+CrashReport/
+
+# Visual Studio / Rider などのIDE用ファイル
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity Cloud Build 用の不要ファイル
+/Assets/StreamingAssets/UnityCloudBuildManifest.json
+
+# Git管理不要のアセット
+*.apk
+*.aab
+*.unitypackage
+*.asset
+
+# macOS用の不要ファイル
+.DS_Store
+*.swp
+
+# Windows用の不要ファイル
+Thumbs.db
+desktop.ini
+
+# Gitリポジトリ自体の設定
+.git/

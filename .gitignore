@@ -42,7 +42,6 @@ CrashReport/
 *.apk
 *.aab
 *.unitypackage
-*.asset
 
 # macOS用の不要ファイル
 .DS_Store

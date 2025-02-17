@@ -97,6 +97,7 @@ Material:
     - _ClipTime: 0.84
     - _Cull: 2
     - _Cutoff: 0.5
+    - _Darkness: 2
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DotTaste: 0

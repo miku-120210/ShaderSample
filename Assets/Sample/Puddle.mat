@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Puddle
-  m_Shader: {fileID: -6465566751694194690, guid: 5216e6f1e2fb04b3ca6f9ec7e6398490,
+  m_Shader: {fileID: -6465566751694194690, guid: 2b49d16dd4dcc0f42add2b8bad2b4c56,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

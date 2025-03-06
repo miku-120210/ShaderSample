@@ -112,13 +112,14 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _BlackCloudHeight: 2.2
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _CloudDis: -30
-    - _CloudDistance: 50
+    - _CloudDis: 30
+    - _CloudDistance: 100
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -126,11 +127,11 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _Float: 1
+    - _Float: 0.3
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Horizon: 0.2
+    - _Horizon: 0.25
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -147,6 +148,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _CloudTiling: {r: 3, g: 3, b: 0, a: 0}
     - _Color: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 1}
     - _Color2: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
     - _Color3: {r: 0.3773585, g: 0.34353864, b: 0.34353864, a: 0}
